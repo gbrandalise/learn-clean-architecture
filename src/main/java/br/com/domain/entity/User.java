@@ -1,7 +1,7 @@
-package domain.entity;
+package br.com.domain.entity;
 
-import domain.exception.PasswordStrengthException;
-import domain.exception.UsernameLengthException;
+import br.com.domain.exception.PasswordStrengthException;
+import br.com.domain.exception.UsernameLengthException;
 import lombok.Getter;
 import lombok.NonNull;
 

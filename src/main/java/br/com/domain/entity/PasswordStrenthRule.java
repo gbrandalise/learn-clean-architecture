@@ -1,4 +1,4 @@
-package domain.entity;
+package br.com.domain.entity;
 
 import java.util.regex.Pattern;
 
